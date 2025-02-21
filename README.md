@@ -1,2 +1,1 @@
-# TestWithHuenkar_2025-02-21
-Test mit Sergej und Hünkar
+Test mit Sergej
